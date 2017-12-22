@@ -1,0 +1,19 @@
+PODS:
+  - CTools (0.1.0):
+    - JRSwizzle (~> 1.0)
+  - JRSwizzle (1.0)
+
+DEPENDENCIES:
+  - CTools (from `../`)
+
+EXTERNAL SOURCES:
+  CTools:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CTools: 1bd6c304c97c5409b7011843e004d7267aa4483d
+  JRSwizzle: dd5ead5d913a0f29e7f558200165849f006bb1e3
+
+PODFILE CHECKSUM: 0194bd0d73f0b9950c42e02af2e36c23a05d1d48
+
+COCOAPODS: 1.2.1
